@@ -1,6 +1,3 @@
 project,dataset_id,dataset_description,table_id,table_description,date_created,date_modified,num_bytes,num_rows,partition_type,table_type
 bigquery-public-data,austin_bikeshare,,bikeshare_stations,,2019-05-11 10:01:27,2017-05-25 03:43:34,7561,96,,TABLE
 bigquery-public-data,austin_bikeshare,,bikeshare_trips,,2019-02-12 00:31:45,2017-05-25 03:55:42,121176818,1077929,,TABLE
-bigquery-public-data,baseball,,games_post_wide,,2016-10-24 20:44:06,2016-10-24 20:44:06,21524723,8676,,TABLE
-bigquery-public-data,baseball,,games_wide,,2016-10-24 20:43:41,2016-10-24 20:43:41,1893661565,761618,,TABLE
-bigquery-public-data,baseball,,schedules,,2016-10-24 20:43:18,2016-10-24 20:43:18,582807,2431,,TABLE
