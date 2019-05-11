@@ -27,7 +27,6 @@ def get_bq_table_metadata(project_list, dataset_list):
 
 
 def get_bq_attribute_data(project_list, dataset_list):
-    """Gets metadata from public BigQuery datasets"""
 
     attribute_metadata = []
     table_metadata.append(['project', 'dataset_id', 'table_id', 'attribute_name', 'description', 'data_type', 'mode'])
